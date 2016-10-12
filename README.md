@@ -1,5 +1,7 @@
 # Stateful containers meetup
-Stateful containers meetup is an community of developers, administrators and vendors who are interested in implementing stateful containers. 
+[Stateful containers meetup](https://www.meetup.com/Containers-and-persistent-storage/) is an community of developers, administrators and vendors who are interested in implementing stateful containers.
+
+After each meetup we post the content here for the community to access and collaborate over the meetup content. 
 
 # Topics at a meetup
 We highly encourage members of the community to volunteer to speak or suggest a topic that they would like covered. File an issue and label them with a request label.
